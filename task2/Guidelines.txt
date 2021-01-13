@@ -1,0 +1,24 @@
+1:- Look at the index image for 15 minutes and create a figure in mind
+	think about it, check layout , check elements repetition etc
+
+2:- Use color picker to use exact colors.
+
+3:- Use bootstrap 4.
+
+4:- proper indention of code, well commented code, css reusabilty is required.
+
+5:- use font icons of your choice (not necessary to use exact icons they can be similar).
+
+6:- Use Poppins Font.
+
+7:- Use owl carousel 2 for sliders.
+
+8:- Dont use CDN for anything.
+
+9:- use hover state as provide in asset folder.
+
+10 Make page responsive using Bootstrap only for now.
+
+Note:- To be Submitted By tomorrow End of Day.
+
+Happy Coding :)
